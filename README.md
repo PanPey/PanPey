@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Pankaj 👋</h1> 
-
+<img src="gif.gif" width="800px">
 
 <h3 align="left">About:</h3>
 
