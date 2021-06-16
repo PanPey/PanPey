@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! I'm Pankaj 👋</h1> 
 
-<img align="center" src="gif.gif" alt="Coder GIF" width="200" height="200">
 
 <h3 align="left">About:</h3>
 
