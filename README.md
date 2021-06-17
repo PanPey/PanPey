@@ -4,7 +4,7 @@
 
 - 🤔 I'm a pre-final year Computer Science student.
 
-- 🔭 I’m currently working on ... Advanced Data Structures & Algorithms.
+- 🔭 I’m currently working on ... Django.
 - 🌱 I’m currently learning about ... Backend tech stack.
 - 👯 I’m looking to collaborate on ... Open Source Contribution.
 - 💬 Ask me about ... Problem Solving (in C++).
