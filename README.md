@@ -18,3 +18,8 @@
 
 ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=PanPey&show_icons=true&theme=monokai)
 
+ [![Pankaj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PanPey&theme=xcode)](https://git.io/PanPey)
+   <br />
+   <br />
+  
+
