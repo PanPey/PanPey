@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on ... Django.
 - 🌱 I’m currently learning about ... Backend tech stack.
 - 👯 I’m looking to collaborate on ... Open Source Contribution.
-- 💬 Ask me about ... Problem Solving (in C++).
+- 💬 Ask me about ... Problem Solving and DSA
 - ⚡ Fun fact: The best thing about a Boolean is that even if you are wrong, you are only off by a bit.
 
 
