@@ -1,5 +1,9 @@
 <h1 align="center">Hi there! I'm Pankaj 👋</h1> 
 
+<div align="center">
+<img src="https://github.com/PanPey/PanPey/blob/main/gif.gif" width="400" height="250" />
+</div>
+
 <h3 align="left">About:</h3>
 
 - 🤔 I'm a pre-final year Computer Science student.
